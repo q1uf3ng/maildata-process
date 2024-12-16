@@ -30,7 +30,7 @@
 1. **配置邮箱**：在脚本中配置你的邮箱和密码，或者通过 `credentials.txt` 文件加载已保存的账号信息。
 2. **运行脚本**：
    ```bash
-   python email_attachment_downloader.py
+   python maildata-process.py
 
 
 
